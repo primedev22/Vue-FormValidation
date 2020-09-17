@@ -1,4 +1,4 @@
-# vue2-forms
+# vue2-form-validation
 Webpac and Vue JS2 Form Validation
 ### App based on Vue JS2
 
